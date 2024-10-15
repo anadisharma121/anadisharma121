@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [AERO(Next-gen-learning-platform)](https://github.com/anadisharma121/Aero_web_project)
 
-- 🌱 I’m currently learning **Next.js and Node.js**
+- 🌱 I’m currently learning **Next.js, Node.js, Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anadisharma121](https://github.com/anadisharma121)
+- 👨‍💻 All of my projects are available at [anadisharma121](https://github.com/anadisharma121)
 
 - 📫 How to reach me **sharma.anadi007@gmail.com**
 
